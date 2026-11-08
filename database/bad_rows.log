@@ -1,0 +1,10 @@
+battery_mgmt | requirements | line 42 | duplicate id
+battery_mgmt | requirements | line 43 | missing id
+engine_ctrl | requirements | line 42 | duplicate id
+engine_ctrl | requirements | line 43 | missing id
+power_unit | requirements | line 42 | duplicate id
+power_unit | requirements | line 43 | missing id
+rotor_board | requirements | line 42 | duplicate id
+rotor_board | requirements | line 43 | missing id
+start_stop | requirements | line 42 | duplicate id
+start_stop | requirements | line 43 | missing id
