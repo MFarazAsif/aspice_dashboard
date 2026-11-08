@@ -3,7 +3,7 @@
 
 
 Shows how several projects are doing against ASPICE KPIs. Uses sample data.
-Live dashboard: https://mfarazasif.github.io/aspice\_dashboard/
+Live dashboard: [https://mfarazasif.github.io/aspice\_dashboard/](https://mfarazasif.github.io/aspice_dashboard/dashboard/index.html)
 
 
 
